@@ -12,7 +12,7 @@ def run_guessing_game
 
   case input
   when "exit"
-    puts "Goodbye"
+    puts "Goodbye!"
   when rand_num
     puts "You guessed the correct number!"
     run_guessing_game 

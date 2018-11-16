@@ -1,8 +1,5 @@
 # Code your solution here!
-def guessing_CLI
-  
 
-end
 
 
 def run_guessing_game

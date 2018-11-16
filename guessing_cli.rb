@@ -9,4 +9,5 @@ def run_guessing_game
   case input 
     when "exit"
   return 
+  end
 end

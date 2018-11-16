@@ -8,6 +8,6 @@ def run_guessing_game
   
   case input 
     when "exit"
-  return 
+  return "Goodbye" 
   end
 end

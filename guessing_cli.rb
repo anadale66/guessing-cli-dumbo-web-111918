@@ -7,7 +7,6 @@ def run_guessing_game
   input = gets.chomp
   
   case input 
-  when "exit"
-    break
-  end
+    when "exit"
+  return 
 end

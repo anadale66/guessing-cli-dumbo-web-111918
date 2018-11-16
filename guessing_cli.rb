@@ -11,7 +11,7 @@ def run_guessing_game
   case input
     when "exit"
       puts "Goodbye!" 
-    else input == rand_num 
+    when input == rand_num 
       puts "You guessed the correct number!"
   end
 end

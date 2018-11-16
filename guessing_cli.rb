@@ -7,7 +7,7 @@ def run_guessing_game
   input = gets.chomp
   
   case input
-  if input = "exit"
+    when "exit"
     puts "Goodbye!" 
   end
 end
